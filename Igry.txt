@@ -96,3 +96,5 @@ The Angry Video Game Nerd Adventures
 Anomaly: Warzone Earth
 Antichamber
 Arma Reforger
+Follaut 4
+Soccer simulator

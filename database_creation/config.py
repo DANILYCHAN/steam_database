@@ -1,4 +1,4 @@
 host = 'localhost'
-db_name = 'steam_0'
+db_name = 'postgres'
 user = 'postgres'
 password = 'danman'

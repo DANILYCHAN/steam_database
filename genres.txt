@@ -5,7 +5,7 @@ MOBA
 RPG
 Simulation
 Sports
-Pparty game
+Party game
 Action-adventure
 Survival
 Horror
